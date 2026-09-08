@@ -1,28 +1,28 @@
 ## Hi there 👋
-<!-- Colorful & Playful GitHub Profile README for hackerjoe69 -->
+
+<!-- Colorful & Playful GitHub Profile README for spidersecops -->
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20Spider🕷️%20👾&fontSize=40&fontAlignY=35&desc=Ethical%20Hacker%20%7C%20Malware%20Analyst%20%20&descAlign=65&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20Spider🕷️%20👾&fontSize=40&fontAlignY=35&desc=RedTeam%20%7C%20Threat%20Intelligence%20%7C%20SOC%20%7C%20OSINT%20%7C%20Malware%20Research%20%20&descAlign=65&descSize=20)
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/spidersecops)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/spidersecops)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@spidersecops)
 [![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@spidersecops)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/spidersecops)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@spidersecops)
-
-
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/spidersecops)
+[![Kick](https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=white)](https://kick.com/spidersecops)
+[![Tumblr](https://img.shields.io/badge/Tumblr-36465D?style=for-the-badge&logo=tumblr&logoColor=white)](https://tumblr.com.spidersecops)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Us
 
-- 🛡️ I am an  **Ethical Hacker**, and **Malware Analyst**
-- 💻 Fluent in **Python**, **Linux**, **Netwoking**, and **Bash** scripting
-- 🚀 Always hacking, automating, developing and analysing malwares and making the digital world safer
-- 🎮 When I’m not coding, you’ll find me gaming!
+- 🛡️ we are **spidersecops**
+- 💻 we offer **RedTeam**, **Threat Intelligence**, **SOC**, and **OSINT** services
+- 🚀 we also build enterprise automation systems and softwares for cybersecurity operations
+- 💀 We build, test and analyse malwares as well!
 
 ---
 
@@ -81,18 +81,18 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Us
 
-- 🐦 [Twitter](https://x.com/hackerjoe69)
-- 🎵 [TikTok](https://www.tiktok.com/@hackerjoe_official)
-- 📺 [YouTube](https://www.youtube.com/@hackerjoe69)
+- 🐦 [Twitter](https://x.com/spidersecops)
+- 🎵 [TikTok](https://www.tiktok.com/@spidersecops)
+- 📺 [YouTube](https://www.youtube.com/@spidersecops)
 
 ---
 
 <details>
   <summary>🎲 Fun Fact</summary>
   <br>
-  When I'm not defending the digital world, I'm leveling up in my favorite games! 🎮
+  we play arround with malwares and research about them! 💀
 </details>
 
 ---
@@ -103,7 +103,7 @@
 
 </div>
 <!--
-**hackerjoe69/hackerjoe69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**spidersecops/spidersecops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -115,4 +115,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
